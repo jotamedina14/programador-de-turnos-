@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Maryith G",
+  "author": "yonathan b",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
